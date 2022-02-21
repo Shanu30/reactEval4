@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "attandence": true,
+      "laptop": true,
+      "graduate": true,
+      "math": true,
+      "age": true,
+      "cs": true,
+      "agreed": true,
+      "fullname": "shanu",
+      "email": "abc.gmail.com",
+      "password": " efenf3",
+      "id": 1
+    },
+    {
+      "attandence": true,
+      "laptop": true,
+      "graduate": true,
+      "math": true,
+      "age": true,
+      "fullname": "Kumar Shanu",
+      "email": "a@a.com",
+      "password": " ffje4334",
+      "id": 2
+    },
+    {
+      "laptop": true,
+      "age": true,
+      "fullname": "fds",
+      "email": "a@b.com",
+      "password": "bfv56",
+      "id": 3
+    }
+  ]
+}
